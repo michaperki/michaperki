@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact **I can solve a Rubik's cube in under 15 seconds and previously organized a speedsolving competition!**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
