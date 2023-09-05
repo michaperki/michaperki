@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Michael Perkins</h1>
-<h3 align="center">A data scientist and engineer from Dallas, TX 🤠</h3>
+<h3 align="center">A full-stack engineer in Dallas, TX 🤠</h3>
 
 - 🌱 I’m currently learning [full-stack development](https://michaperki.github.io/KeyboardShortcutTracker/)
 
