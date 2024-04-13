@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋 I'm Michael Perkins</h1>
 <h3 align="center">A full-stack engineer in Dallas, TX 🤠</h3>
 
-- 🌱 I’m currently learning [full-stack development](https://michaperki.github.io/KeyboardShortcutTracker/)
+- 🌱 I’m currently learning artifical intelligence and machine learning.
 
 - 👯 I’m looking to collaborate on [data analytics projects](https://github.com/michaperki/Nomi-Financial-Dashboard)
 
-- 🤝 I’m looking for help with **finding a full-time data science job**
+- 🤝 I’m looking for a **developer role at a startup**
 
-- 💬 Ask me about **Python, Excel modelling, Domo and other B.I. tools**
+- 💬 Ask me about **modeling, ETL, web3**
 
 - 📫 How to reach me **mperkins1995@gmail.com**
 
