@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **mperkins1995@gmail.com**
 
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 15 seconds and previously organized a speedsolving competition!**
+- ⚡ Fun fact: **I'm an award winning ceramic artist**
 
 <p align="left">
 </p>
