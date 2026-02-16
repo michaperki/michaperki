@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Michael Perkins</h1>
-<h3 align="center">A full-stack engineer in Dallas, TX 🤠</h3>
+<h3 align="center">A full-stack engineer</h3>
 
-- 🌱 I’m currently earning my master's in artifical intelligence and machine learning.
+- 🌱 I earned my Masters Degree in artifical intelligence and machine learning.
 
 - 🤝 I’m looking for a **developer role at a startup**
 
